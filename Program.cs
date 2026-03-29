@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿HaloGeneric hg = new HaloGeneric();
+hg.SapaUser<string>("nuraini");
